@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1583758862 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 1 - exercício 3\continente.cpp
+	"Continente.h"
+
+1583763535 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 1 - exercício 3\continente.h
+	<vector>
+	<iostream>
+	"Paises.h"
+
+1583759070 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 1 - exercício 3\main.cpp
+	<vector>
+	<iostream>
+	"Paises.h"
+	"Planeta.h"
+	"Continente.h"
+
+1583758864 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 1 - exercício 3\paises.cpp
+	"Paises.h"
+
+1583763534 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 1 - exercício 3\paises.h
+	<vector>
+	<iostream>
+
+1583759320 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 1 - exercício 3\planeta.cpp
+	"Paises.h"
+	"Planeta.h"
+
+1583763537 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 1 - exercício 3\planeta.h
+	<vector>
+	<iostream>
+	<bits/stdc++.h>
+	"Continente.h"
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1583282978 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos - estruturas de dados c++ - lista de exercícios 1 - exercício 2\main.cpp
+	<list>
+	<vector>
+	<string>
+	<sstream>
+	<fstream>
+	<iostream>
+
+1583771945 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 1 - exercício 2\main.cpp
+	"Paises.h"
+	"Planeta.h"
+	<vector>
+	<string>
+	<sstream>
+	<fstream>
+	<iostream>
+
+1583771508 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 1 - exercício 2\paises.h
+	<vector>
+	<sstream>
+	<fstream>
+	<iostream>
+
+1583771559 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 1 - exercício 2\planeta.h
+	<vector>
+	<sstream>
+	<fstream>
+	<iostream>
+	"Paises.h"
+
+1583771730 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 1 - exercício 2\paises.cpp
+	"Paises.h"
+
+1583771945 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 1 - exercício 2\planeta.cpp
+	"Planeta.h"
+

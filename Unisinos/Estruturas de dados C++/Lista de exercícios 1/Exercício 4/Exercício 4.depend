@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1583774817 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 1 - exercício 4\main.cpp
+	<iostream>
+	"Retangulo.h"
+
+1583774842 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 1 - exercício 4\retangulo.h
+
+1583774824 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 1 - exercício 4\retangulo.cpp
+	"Retangulo.h"
+

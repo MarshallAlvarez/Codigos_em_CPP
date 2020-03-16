@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1584368055 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\teste 2 3\cura.cpp
+	"Cura.h"
+	"Jogador.h"
+
+1584361812 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\teste 2 3\cura.h
+	<iostream>
+	"Itens.h"
+
+1584367675 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\teste 2 3\jogador.cpp
+	"Jogador.h"
+
+1584367842 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\teste 2 3\jogador.h
+	<vector>
+	<iostream>
+	"Cura.h"
+	"Armas.h"
+	"Municao.h"
+	"Armaduras.h"
+
+1584368183 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\teste 2 3\main.cpp
+	<iostream>
+	"Cura.h"
+	"Armas.h"
+	"Jogador.h"
+	"Armaduras.h"
+
+1584368055 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\teste 2 3\armaduras.cpp
+	"Armaduras.h"
+
+1584362769 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\teste 2 3\armaduras.h
+	"Itens.h"
+
+1584368183 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\teste 2 3\armas.cpp
+	"Armas.h"
+
+1584368183 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\teste 2 3\armas.h
+	<iostream>
+	"Itens.h"
+
+1584368301 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\teste 2 3\itens.cpp
+	"Itens.h"
+
+1584368293 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\teste 2 3\itens.h
+	<iostream>
+
+1584368282 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\teste 2 3\municao.cpp
+	"Municao.h"
+
+1584368282 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\teste 2 3\municao.h
+	<iostream>
+	"Itens.h"
+
+1584368055 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 2 - exercício 3\armaduras.cpp
+	"Armaduras.h"
+
+1584362769 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 2 - exercício 3\armaduras.h
+	"Itens.h"
+
+1584368293 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 2 - exercício 3\itens.h
+	<iostream>
+
+1584368183 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 2 - exercício 3\armas.cpp
+	"Armas.h"
+
+1584368183 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 2 - exercício 3\armas.h
+	<iostream>
+	"Itens.h"
+
+1584368055 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 2 - exercício 3\cura.cpp
+	"Cura.h"
+	"Jogador.h"
+
+1584361812 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 2 - exercício 3\cura.h
+	<iostream>
+	"Itens.h"
+
+1584367842 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 2 - exercício 3\jogador.h
+	<vector>
+	<iostream>
+	"Cura.h"
+	"Armas.h"
+	"Municao.h"
+	"Armaduras.h"
+
+1584368282 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 2 - exercício 3\municao.h
+	<iostream>
+	"Itens.h"
+
+1584368301 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 2 - exercício 3\itens.cpp
+	"Itens.h"
+
+1584367675 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 2 - exercício 3\jogador.cpp
+	"Jogador.h"
+
+1584368371 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 2 - exercício 3\main.cpp
+	<iostream>
+	"Cura.h"
+	"Armas.h"
+	"Jogador.h"
+	"Armaduras.h"
+
+1584368282 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - lista de exercícios 2 - exercício 3\municao.cpp
+	"Municao.h"
+
+1584368055 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 2\exercício 3\armaduras.cpp
+	"Armaduras.h"
+
+1584362769 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 2\exercício 3\armaduras.h
+	"Itens.h"
+
+1584368293 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 2\exercício 3\itens.h
+	<iostream>
+
+1584368183 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 2\exercício 3\armas.cpp
+	"Armas.h"
+
+1584368183 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 2\exercício 3\armas.h
+	<iostream>
+	"Itens.h"
+
+1584368055 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 2\exercício 3\cura.cpp
+	"Cura.h"
+	"Jogador.h"
+
+1584361812 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 2\exercício 3\cura.h
+	<iostream>
+	"Itens.h"
+
+1584367842 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 2\exercício 3\jogador.h
+	<vector>
+	<iostream>
+	"Cura.h"
+	"Armas.h"
+	"Municao.h"
+	"Armaduras.h"
+
+1584368282 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 2\exercício 3\municao.h
+	<iostream>
+	"Itens.h"
+
+1584368301 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 2\exercício 3\itens.cpp
+	"Itens.h"
+
+1584367675 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 2\exercício 3\jogador.cpp
+	"Jogador.h"
+
+1584368371 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 2\exercício 3\main.cpp
+	<iostream>
+	"Cura.h"
+	"Armas.h"
+	"Jogador.h"
+	"Armaduras.h"
+
+1584368282 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 2\exercício 3\municao.cpp
+	"Municao.h"
+
