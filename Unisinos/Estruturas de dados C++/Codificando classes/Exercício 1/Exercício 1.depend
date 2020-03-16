@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1583947679 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - codificando classes em c++ - exercício 1\calculadora.cpp
+	"Calculadora.h"
+
+1583947356 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - codificando classes em c++ - exercício 1\calculadora.h
+	<iostream>
+
+1583947720 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - codificando classes em c++ - exercício 1\main.cpp
+	<iostream>
+	"Calculadora.h"
+

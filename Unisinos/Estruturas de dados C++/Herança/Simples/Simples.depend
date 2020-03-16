@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1584145430 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - herança simples\druida.cpp
+	"Druida.h"
+
+1584145430 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - herança simples\druida.h
+	"Mago.h"
+
+1584146905 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - herança simples\mago.cpp
+	"Mago.h"
+
+1584146826 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - herança simples\mago.h
+	<iostream>
+
+1584145430 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - herança simples\magobranco.cpp
+	"MagoBranco.h"
+
+1584145430 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - herança simples\magobranco.h
+	"Mago.h"
+
+1584145430 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - herança simples\magocinza.cpp
+	"MagoCinza.h"
+
+1584145430 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - herança simples\magocinza.h
+	"Mago.h"
+
+1584147462 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - herança simples\main.cpp
+	<iostream>
+	"Mago.h"
+	"Druida.h"
+	"MagoCinza.h"
+	"MagoBranco.h"
+

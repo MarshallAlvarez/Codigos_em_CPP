@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1583957968 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - codificando classes em c++ - exercício 2\agendadecontatos.cpp
+	"AgendaDeContatos.h"
+
+1583957968 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - codificando classes em c++ - exercício 2\agendadecontatos.h
+	<vector>
+	<iostream>
+	"Contato.h"
+
+1583955769 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - codificando classes em c++ - exercício 2\contato.h
+	<iostream>
+
+1583955574 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - codificando classes em c++ - exercício 2\cliente.cpp
+	"Cliente.h"
+
+1583955764 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - codificando classes em c++ - exercício 2\cliente.h
+	"Contato.h"
+
+1583955589 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - codificando classes em c++ - exercício 2\contato.cpp
+	"Contato.h"
+
+1583955574 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - codificando classes em c++ - exercício 2\fornecedor.cpp
+	"Fornecedor.h"
+
+1583955574 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - codificando classes em c++ - exercício 2\fornecedor.h
+	"Contato.h"
+
+1583955575 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - codificando classes em c++ - exercício 2\geral.cpp
+	"Geral.h"
+
+1583955575 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - codificando classes em c++ - exercício 2\geral.h
+	"Contato.h"
+
+1583957974 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - codificando classes em c++ - exercício 2\main.cpp
+	<cstdlib>
+	<iostream>
+	"Geral.h"
+	"Cliente.h"
+	"Contato.h"
+	"Fornecedor.h"
+	"AgendaDeContatos.h"
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1584192223 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - herança múltipla\mago.cpp
+	"Mago.h"
+
+1584191500 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - herança múltipla\mago.h
+	<iostream>
+
+1584191500 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - herança múltipla\magoguerreiro.cpp
+	"MagoGuerreiro.h"
+
+1584191935 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - herança múltipla\magoguerreiro.h
+	"Mago.h"
+	"Guerreiro.h"
+
+1584192223 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - herança múltipla\guerreiro.h
+	<iostream>
+
+1584192903 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - herança múltipla\guerreiro.cpp
+	"Mago.h"
+	"Guerreiro.h"
+
+1584192554 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\unisinos - estruturas de dados c++ - herança múltipla\main.cpp
+	<iostream>
+	"Mago.h"
+	"Guerreiro.h"
+	"MagoGuerreiro.h"
+
