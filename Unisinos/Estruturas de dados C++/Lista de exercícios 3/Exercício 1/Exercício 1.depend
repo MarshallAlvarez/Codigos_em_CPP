@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1585612701 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 3\exercício 1\elipse.cpp
+	"Elipse.h"
+
+1585616010 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 3\exercício 1\elipse.h
+	<cmath>
+	<iostream>
+	"Formas_geometricas.h"
+
+1585616291 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 3\exercício 1\formas_geometricas.h
+	<iostream>
+
+1585616291 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 3\exercício 1\formas_geometricas.cpp
+	"Formas_geometricas.h"
+
+1585615891 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 3\exercício 1\main.cpp
+	<iostream>
+	"Elipse.h"
+	"Triangulo.h"
+	"Retangulo.h"
+	"Formas_geometricas.h"
+
+1585615273 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 3\exercício 1\triangulo.h
+	<iostream>
+	"Formas_geometricas.h"
+
+1585613929 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 3\exercício 1\retangulo.h
+	<iostream>
+	"Formas_geometricas.h"
+
+1585615233 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 3\exercício 1\retangulo.cpp
+	"Retangulo.h"
+
+1585616291 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\lista de exercícios 3\exercício 1\triangulo.cpp
+	"Triangulo.h"
+
