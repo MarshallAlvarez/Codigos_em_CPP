@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585940495 source:c:\users\marce\desktop\meus códigos\códigos em cpp\snake\main.cpp
+	<conio.h>
+	<iostream>
+	<windows.h>
+
