@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1587332046 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\arquivos( streams )\itens.cpp
+	"Itens.h"
+
+1587332046 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\arquivos( streams )\itens.h
+	<iostream>
+
+1587334098 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\arquivos( streams )\jogo.cpp
+	"Jogo.h"
+
+1587335254 c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\arquivos( streams )\jogo.h
+	<fstream>
+	<iostream>
+	"Itens.h"
+
+1587333763 source:c:\users\marce\desktop\meus códigos\códigos em cpp\unisinos\estruturas de dados c++\arquivos( streams )\main.cpp
+	<ctime>
+	<iostream>
+	"Jogo.h"
+
